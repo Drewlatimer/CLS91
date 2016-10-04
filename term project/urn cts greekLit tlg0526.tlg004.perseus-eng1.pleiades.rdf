@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:dcterms="http://purl.org/dc/terms/"  xmlns:foaf="http://xmlns.com/foaf/0.1/"  xmlns:oac="http://www.openannotation.org/ns/"  xmlns:cnt="http://www.w3.org/2008/content#">
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#1">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687996#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.99"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.99</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#2">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/707462#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.86"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.86</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#3">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/707462#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.167"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.167</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#4">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678219#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.99"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.99</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#5">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/688015#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.86"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.86</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#6">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/688015#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#7">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/541138#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.131"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.131</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#8">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/786017#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.131"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.131</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#9">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687902#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.86"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.86</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#10">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687902#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#11">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678010#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.48"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.48</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#12">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/373879#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.48"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.48</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#13">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678010#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.113"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.113</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#14">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/373879#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.113"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.113</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#15">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.7"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.7</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#16">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.9"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.9</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#17">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.19"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.19</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#18">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.23"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.23</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#19">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.31"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.31</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#20">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.31"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.31</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#21">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.41"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.41</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#22">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.61"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.61</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#23">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.62"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.62</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#24">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.90"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.90</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#25">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.96"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.96</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#26">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#27">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.133"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.133</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#28">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.138"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.138</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#29">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.152"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.152</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#30">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.160"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.160</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#31">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.162"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.162</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#32">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.167"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.167</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#33">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.167"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.167</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#34">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.171"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.171</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#35">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.175"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.175</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#36">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687928#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.179"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.179</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#37">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687838#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#38">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/930183#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.50"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.50</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#39">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/40127#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.50"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.50</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#40">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678121#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.50"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.50</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#41">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/930183#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#42">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/40127#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#43">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678121#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#44">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491687#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.103"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.103</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#45">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491688#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.103"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.103</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#46">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491687#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.133"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.133</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#47">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491688#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.133"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.133</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#48">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491687#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#49">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491688#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#50">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491687#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#51">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491688#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#52">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678010#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.113"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.113</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#53">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/373879#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.113"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.113</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#54">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678010#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.113"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.113</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#55">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/373879#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.113"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.113</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#56">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.31"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.31</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#57">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.41"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.41</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#58">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.62"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.62</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#59">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.113"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.113</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#60">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#61">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.131"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.131</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#62">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#63">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.160"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.160</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#64">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.175"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.175</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#65">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.179"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.179</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#66">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/531110#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.180"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.180</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#67">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678378#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.64"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.64</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#68">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678378#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.64"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.64</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#69">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678378#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.133"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.133</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#70">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678378#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#71">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678378#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#72">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678437#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.145"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.145</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#73">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/727117#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.31"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.31</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#74">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678179#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.31"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.31</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#75">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/554309#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#76">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/465972#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#77">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/550816#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#78">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/543834#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#79">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/550817#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#80">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/573438#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#81">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/573439#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#82">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491691#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#83">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/554309#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#84">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/465972#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#85">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/550816#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#86">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/543834#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#87">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/550817#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#88">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/573438#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#89">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/573439#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#90">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491691#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.159"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.159</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#91">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678106#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.103"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.103</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#92">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678106#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.113"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.113</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#93">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678106#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.123"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.123</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#94">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678106#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.128"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.128</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#95">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678106#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.131"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.131</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#96">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/857686#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#97">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/594947#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#98">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/543633#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#99">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/373732#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#100">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/536060#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#101">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/589703#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#102">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/491526#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#103">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/674220#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#104">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/897714#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#105">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/462097#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#106">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678025#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#107">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/507366#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#108">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/540639#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.86"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.86</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#109">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/540639#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#110">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678158#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.103"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.103</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#111">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/748962#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.103"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.103</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#112">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/727192#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.175"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.175</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#113">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/423025#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.23"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.23</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#114">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/423025#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#115">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/423025#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#116">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/423025#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.167"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.167</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#117">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/423025#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.171"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.171</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#118">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/423025#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.171"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.171</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#119">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/423025#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.171"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.171</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#120">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/1052#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.27"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.27</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#121">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/678387#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.167"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.167</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#122">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/609521#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.64"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.64</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#123">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/609521#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.117"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.117</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#124">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/741591#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.64"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.64</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#125">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/741591#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.64"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.64</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#126">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/741591#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.155"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.155</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#127">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/741591#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+  <oac:Annotation rdf:about="http://data.perseus.org/annotations/occur/places:pleiades/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1#128">
+    <oac:hasBody rdf:resource="http://pleiades.stoa.org/places/687838#this"/>
+    <oac:hasTarget rdf:resource="http://data.perseus.org/citations/urn:cts:greekLit:tlg0526.tlg004.perseus-eng1:1.164"/>
+    <dcterms:title xml:lang="en">Flavius Josephus, The Wars of the Jews 1.164</dcterms:title>
+    <dcterms:creator>Perseus Digital Library</dcterms:creator>
+    <dcterms:created>2013-10-16</dcterms:created>
+  </oac:Annotation>
+</rdf:RDF>
